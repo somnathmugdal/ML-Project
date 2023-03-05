@@ -1,0 +1,8 @@
+#Open VS code through cmd
+code .
+
+#Create Virtual Environment in Anaconda\
+conda create -p venv python=3.8 -y
+
+#Activation
+conda activate "C:\ML Project\venv"
